@@ -120,14 +120,15 @@ body {
   display: inline-block;
   max-width: 100%;
   height: auto;
+  top: 250px;
 }
 
 .six .hat {
   position: absolute;
-  width: 80px;
-  top: -35px;
+  width: 180px;
+  top: 5px;
   left: 41.5%;
-  /* transform: scale(0.1); */
+  transform: scale(0.5);
 }
 
 .baloons img {
